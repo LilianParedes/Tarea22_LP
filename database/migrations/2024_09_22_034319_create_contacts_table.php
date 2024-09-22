@@ -12,7 +12,7 @@ return new class extends Migration
     public function up()
     {
     Schema::table('contact', function (Blueprint $table) {
-        // Añadir nuevas columnas si es necesario
+    
     });
     }
 
